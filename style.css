@@ -39,7 +39,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #ffd700;
+  color: #592c2c;
 }
 
 .profile {
@@ -504,8 +504,6 @@ nav a:hover {
   background-color: rgb(3, 3, 3);
   color: rgb(145, 145, 16);
   text-align: center;
-  
-  
 }
 .black-notice {
   display: flex;
