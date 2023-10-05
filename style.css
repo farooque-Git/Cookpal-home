@@ -509,7 +509,7 @@ nav a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
+  width: 100vh;
   background-color: #070707;
   color: rgb(251, 251, 28);
 }
